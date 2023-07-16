@@ -2,9 +2,17 @@
 name: "✅ Feature"
 about: Feature 작업 사항을 입력해주세요.
 title: "[Feat]"
-labels: enhancement
+labels: documentation, duplicate, enhancement, good first issue, help wanted
 assignees: siho-song
 
+---
+
+---
+name: Feature request
+about: 기능을 잘 만들어 봅시다
+title: "[Feat]"
+labels: ''
+assignees: GGHDMS, siho-song
 ---
 
 ## 제목
@@ -12,8 +20,6 @@ assignees: siho-song
 ## 작업 내용
 
 ## 주의사항
-
-## 관련 이슈
 
 ## To-do
 * [ ] todo
